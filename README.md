@@ -1,2 +1,2 @@
 # LSTM
-LSTM is Advanced RNN
+LSTM is Advanced RNN for task of classification. 
